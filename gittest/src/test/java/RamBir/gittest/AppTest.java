@@ -27,7 +27,7 @@ public class AppTest extends TestCase
      */
     public void testApp()
     {
-    	System.out.println("github");
+    	System.out.println("ram - github");
     }
        
 
