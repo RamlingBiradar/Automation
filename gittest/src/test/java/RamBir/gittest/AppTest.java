@@ -7,24 +7,10 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class AppTest extends TestCase
+public class AppTest
 {
-    /**
-     * Create the test case
-     *
-     * @param testName name of the test case
-     */
-    public AppTest( String testName )
-    {
-        super( testName );
-    }
-
-    /**
-   
-
-    /**
-     * Rigourous Test :-)
-     */
+    
+public static void main(String args[])
     public void testApp()
     {
     	System.out.println("ram - github");
